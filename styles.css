@@ -30,18 +30,15 @@ ul {
 
 /* Navigation */
 .nav-main {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background: rgb(255, 84, 84);
-  z-index: 10000;
-  padding: 10px 20px;
-
+  font-size: 17px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 70px;
+  height: 60px;
+  padding: 20px 0;
+  position: fixed;
+  background-color: white;
+
 }
 
 .nav-brand {
@@ -315,3 +312,4 @@ hr {
   }
 
 }
+
