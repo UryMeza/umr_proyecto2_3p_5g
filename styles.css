@@ -30,12 +30,14 @@ ul {
 
 /* Navigation */
 .nav-main {
-    font-size: 17px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 60px;
-    padding: 20px 0;
+  font-size: 17px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  padding: 20px 0;
+  position: fixed;
+  background-color: white;
 }
 
 .nav-brand {
@@ -309,6 +311,7 @@ hr {
   }
 
 }
+
 
 
 
