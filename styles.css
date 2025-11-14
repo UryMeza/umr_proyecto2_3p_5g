@@ -37,7 +37,7 @@ ul {
   height: 60px;
   padding: 20px 0;
   position: fixed;
-  background-color: white;
+  background-color: red;
 }
 
 .nav-brand {
@@ -311,6 +311,7 @@ hr {
   }
 
 }
+
 
 
 
